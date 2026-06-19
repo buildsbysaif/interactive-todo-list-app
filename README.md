@@ -19,11 +19,11 @@
 ## 🚀 Core Features
 
 - **Full CRUD Operations:** Seamlessly add, edit, delete, and mark tasks as completed.
-- **💾 Local Storage Persistence:** Task data and user theme preferences are saved securely in the browser's local storage. The app remembers your tasks even after closing the tab.
-- **🌗 Dark / Light Mode:** A fully integrated theme switcher utilizing CSS Variables for a smooth, accessible user experience.
-- **🎯 Dynamic Task Filtering:** Instantly sort tasks by "All," "Active," and "Completed" states.
-- **✨ Graceful Validation:** Replaced jarring default browser alerts with smooth, custom CSS shake animations for empty inputs.
-- **📱 Fully Responsive:** Mobile-first CSS ensures a flawless UI across desktops, tablets, and smartphones.
+- **Local Storage Persistence:** Task data and user theme preferences are saved securely in the browser's local storage. The app remembers your tasks even after closing the tab.
+- **Dark / Light Mode:** A fully integrated theme switcher utilizing CSS Variables for a smooth, accessible user experience.
+- **Dynamic Task Filtering:** Instantly sort tasks by "All," "Active," and "Completed" states.
+- **Graceful Validation:** Replaced jarring default browser alerts with smooth, custom CSS shake animations for empty inputs.
+- **Fully Responsive:** Mobile-first CSS ensures a flawless UI across desktops, tablets, and smartphones.
 
 ---
 
