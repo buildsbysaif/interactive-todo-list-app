@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="ProTask Logo" width="100" />
 
-  <h1>✨ ProTask: Modern To-Do Application ✨</h1>
+  <h1> ProTask: Modern To-Do Application </h1>
   <p><em>A sleek, interactive, and fully responsive task management web app.</em></p>
 
   [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-success?style=for-the-badge&logo=vercel)](https://buildsbysaif.github.io/interactive-todo-list-app/)
@@ -12,7 +12,7 @@
 
 <br />
 
-> **💡 Note for Recruiters:** This project was developed to showcase core front-end fundamentals. Instead of relying on a framework like React, it demonstrates a deep understanding of **Vanilla JavaScript (ES6+)**, **DOM Manipulation**, and **Modular Architecture**.
+> **💡 Design Intent:** Built entirely with zero external dependencies to focus strictly on native web standards—utilizing **Vanilla JavaScript (ES6+)**, manual **DOM Manipulation**, and a clean **Modular Architecture**.
 
 ---
 
